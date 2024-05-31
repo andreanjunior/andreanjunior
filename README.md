@@ -1,4 +1,4 @@
-## Hello, World! Eu sou Andréan Junior, Software Developer. ✌🏽
+## Hello, World! Eu sou Andrean Junior, Software Developer. ✌🏽
 
 
  🚀 Atualmente, estou focado na área de front-end.
