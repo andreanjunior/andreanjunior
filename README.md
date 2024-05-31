@@ -1,13 +1,13 @@
 ## Hello, World! Eu sou Andréan Junior, Software Developer. 👋
 
 
-- 🔭 Atualmente, estou focado na área de front-end.
-- 🌱 Estudando React e Tailwind.
-- 📫 Contate-me no e-mail: andreanjunior.git@gmail.com.
+ 🚀 Atualmente, estou focado na área de front-end.
+ 📖 Estudando React e Tailwind.
+ 📧 Contate-me no e-mail: andreanjunior.git@gmail.com.
 
 <div style="display: inline_block"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=andreanjunior&theme=bear&show_icons=true" alt="Anurag's GitHub stats" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=bear" alt="Top Langs" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andreanjunior&theme=midnight-purple&show_icons=true" alt="Anurag's GitHub stats" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=midnight-purple" alt="Top Langs" style="width: 50%;" />
 </div>
 
 <div style="display: inline_block"><br>
