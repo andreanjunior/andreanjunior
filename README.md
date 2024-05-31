@@ -2,8 +2,11 @@
 
 
  🚀 Atualmente, estou focado na área de front-end.
+
  📖 Estudando React e Tailwind.
+ 
  📧 Contate-me no e-mail: andreanjunior.git@gmail.com.
+ 
 
 <div style="display: inline_block"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=andreanjunior&theme=midnight-purple&show_icons=true" alt="Anurag's GitHub stats" style="width: 50%;" />
