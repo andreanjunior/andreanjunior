@@ -9,7 +9,6 @@
  
 
 <div style="display: inline_block"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=andreanjunior&theme=midnight-purple&show_icons=true" alt="Anurag's GitHub stats" style="width: 50%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=midnight-purple" alt="Top Langs" style="width: 50%;" />
 </div>
 
