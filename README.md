@@ -18,7 +18,7 @@
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-tailwind" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
-   <img align="right" alt="junior-kira" src="https://cdn.discordapp.com/attachments/1181370357983236187/1245928564214206485/0cab2f379d62e152388632729318bbdb.gif?ex=665a88e5&is=66593765&hm=3bc1aac317bae33ba5c9c5c0f88e42a00195bcc2b47ba73bc913505e2a9205d7&" width="200" height="200">
+   <img align="right" alt="junior-kira" src="https://media.discordapp.net/attachments/1181370357983236187/1254800662022066197/download.gif?ex=667acfae&is=66797e2e&hm=94900ef9ed52243ebabedc88e39cf4643fb3097fc32c53e04c087614adb5c107&" width="200" height="200">
 
   
 </div>
