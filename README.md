@@ -17,8 +17,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-tailwind" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
-   <img align="right" alt="junior-kira" src="https://cdn.discordapp.com/attachments/1181370357983236187/1254800662022066197/download.gif?ex=66bcbaae&is=66bb692e&hm=b1cbc75a8ec033320666501c9d46ed50059672564d4cd07edfacb23f2afe89dc&" width="400" height="400">
+  <img align="center" alt="Rafa-tailwind" height="30" width="40"  src="https://cdn.discordapp.com/attachments/1181370357983236187/1275436864391872655/1_h7GMfvHKvLPkynG9NvULJw.gif?ex=66c5e2a4&is=66c49124&hm=625ca6e6bff1e80160db1ded8bafaaaf5be821f7b65376b96e4536af5c7f8316&" >
+   <img align="right" alt="junior-kira" src=" width="200" height="200">
 
   
 </div>
