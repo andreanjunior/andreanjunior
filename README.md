@@ -9,7 +9,7 @@
  
 
 <div style="display: inline_block"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=midnight-purple" alt="Top Langs" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=shadow_blue" alt="Top Langs" style="width: 50%;" />
 </div>
 
 <div style="display: inline_block"><br>
