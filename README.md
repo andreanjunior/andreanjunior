@@ -3,8 +3,6 @@
 
  🚀 Atualmente, estou focado na área de front-end.
 
- 📖 Estudando React e Tailwind.
- 
  📧 Contate-me no e-mail: andreanjunior.git@gmail.com.
  
 
@@ -20,7 +18,7 @@
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-   <img align="right" alt="React" src="https://cdn.discordapp.com/attachments/1014170850834006096/1276527001397628938/1_a-HMmQFQNC76zCZBZfFgJg.gif?ex=66c9d9e9&is=66c88869&hm=d56ebce0a8f3e0c4b766325d459a92e84f4842bf54ef7bd4e1e1f45815db8cf0"width="200" height="200" >
+   <img align="right" alt="React" src="https://cdn.discordapp.com/attachments/1014170850834006096/1276529229978406942/143a90ed417324ed052b981c2b7ee4878c8e1506_hq.gif?ex=66c9dbfd&is=66c88a7d&hm=f94f338c554c84a170b7fb87709a011072586deccd0ba6cd049fa3a0d3eb0ea2"width="200" height="200" >
 
   
 </div>
