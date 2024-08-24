@@ -10,7 +10,7 @@
 
  <img  src="https://github-readme-stats.vercel.app/api?username=andreanjunior&show_icons=true&hide=contribs,prs&theme=shadow_blue" style="width: 50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=shadow_blue" alt="Top Langs" style="width: 50%;" />
-    <img align="right" alt="React" src="https://cdn.discordapp.com/attachments/1014170850834006096/1276896934677971107/3BBS.gif?ex=66cb3270&is=66c9e0f0&hm=eaf36857c16fa9ca56a27994be060b5d27c9d8454515a15a15e677abb6341598&" height="350" width="350"  >
+    <img align="right" alt="React" src="https://cdn.discordapp.com/attachments/1014170850834006096/1276899277062541312/4hss.gif?ex=66cb349f&is=66c9e31f&hm=f6a5bf7350ef0aaf0a91e13ee166f6b65301cf8ee600e06f2453f8ae0e8aa69c&" height="200" width="350"  >
 </div>
 
 <div style="display: inline_block"><br>
