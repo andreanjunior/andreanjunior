@@ -5,6 +5,13 @@
  
  📧 Contact me on email: andreanjunior.git@gmail.com.
  
+<div style="display: inline_block"><br>
+   <img align="center" alt="junin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="junin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="junin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="junin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="junin-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />        
+</div>
 
 <div style="display: inline_block"><br>
 
@@ -13,16 +20,7 @@
     <img align="right" alt="React" src="https://cdn.discordapp.com/attachments/1014170850834006096/1276899277062541312/4hss.gif?ex=66cb349f&is=66c9e31f&hm=f6a5bf7350ef0aaf0a91e13ee166f6b65301cf8ee600e06f2453f8ae0e8aa69c" height="300" width="350"  >
 </div>
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="junin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="junin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="junin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="junin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="junin-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />        
-</div>
-   
-          
-  
+
   ##
 
   <div>
