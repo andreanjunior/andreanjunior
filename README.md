@@ -20,7 +20,7 @@
 
  <img  src="https://github-readme-stats.vercel.app/api?username=andreanjunior&show_icons=true&hide=contribs,prs&theme=shadow_blue" style="width: 50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=shadow_blue" alt="Top Langs" style="width: 50%;" />
-    <img align="right" alt="React" src="https://giphy.com/embed/XGi7sQQZhEa0z9h99D"  height="300" width="350"  >
+    <iframe src="https://giphy.com/embed/XGi7sQQZhEa0z9h99D" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XGi7sQQZhEa0z9h99D">via GIPHY</a></p>
 </div>
 
 
