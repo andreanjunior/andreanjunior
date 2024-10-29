@@ -1,8 +1,7 @@
-## Hello, World! Eu sou Andrean Junior, Software Developer. ✌🏽
+## Hello, World! Welcome to my profile 
 
 
- 🚀 front-end developer - Javascript, React.js.
- 
+ 🚀 Front-end developer - Javascript, React, Nextjs.
  📧 Contact me on email: andreanjunior.git@gmail.com.
  
 <div style="display: inline_block"><br>
@@ -20,7 +19,7 @@
 
  <img  src="https://github-readme-stats.vercel.app/api?username=andreanjunior&show_icons=true&hide=contribs,prs&theme=shadow_blue" style="width: 50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=shadow_blue" alt="Top Langs" style="width: 50%;" />
- <br><img  alt="React" src="https://cdn.discordapp.com/attachments/1181370357983236187/1245928564214206485/0cab2f379d62e152388632729318bbdb.gif?ex=66f41fa5&is=66f2ce25&hm=4f6f743e507d94a93be4147248261c9e5af72f803614b1cf520b323a96f82c35&">
+ <br> <img  alt="React" src="https://cdn.discordapp.com/attachments/1181370357983236187/1245928564214206485/0cab2f379d62e152388632729318bbdb.gif?ex=67219b65&is=672049e5&hm=8d50380ff00160978acb3c85c8191dff463a8f146390f633944289d12d17e391&"    >
 </div>
 
 
