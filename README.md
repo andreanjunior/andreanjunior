@@ -1,56 +1,17 @@
-<!-- BARRA DE ÍCONES NO TOPO -->
 <p align="center">
-  <!-- Web fundamentals -->
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img alt="HTML5"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img alt="CSS3"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  </a>
-
-  <!-- JS & TS -->
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
-    <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  </a>
-
-  <!-- Front-end -->
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noopener noreferrer">
-    <img alt="React"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  </a>
-  <a href="https://nextjs.org/docs/" target="_blank" rel="noopener noreferrer">
-    <img alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  </a>
-
-  <!-- Back-end -->
-  <a href="https://nodejs.org/en/docs/" target="_blank" rel="noopener noreferrer">
-    <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  </a>
-  <a href="https://www.php.net/docs.php" target="_blank" rel="noopener noreferrer">
-    <img alt="PHP"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  </a>
-
-  <!-- Bancos de dados -->
-  <a href="https://docs.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  </a>
-  <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noopener noreferrer">
-    <img alt="SQLite"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
-  </a>
-
-  <!-- DevOps & Testes -->
-  <a href="https://docs.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  </a>
-  <a href="https://jestjs.io/docs/" target="_blank" rel="noopener noreferrer">
-    <img alt="Jest"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-  </a>
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/docs/)
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/docs/getting-started.html)
+[![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)](https://nextjs.org/docs/)
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org/en/docs/)
+[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net/docs.php)
+[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)](https://docs.mongodb.com/)
+[![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)](https://www.sqlite.org/docs.html)
+[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)](https://docs.docker.com/)
+[![Jest](https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg)](https://jestjs.io/docs/)
 </p>
-
-
-
 <table width="100%">
   <tr>
     <!-- Coluna da esquerda -->
