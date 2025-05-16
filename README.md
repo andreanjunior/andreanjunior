@@ -19,7 +19,11 @@
 
  <img  src="https://github-readme-stats.vercel.app/api?username=andreanjunior&show_icons=true&hide=contribs,prs&theme=shadow_blue" style="width: 50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=shadow_blue" alt="Top Langs" style="width: 50%;" />
- <br> <img  alt="React" src="https://cdn.discordapp.com/attachments/1181370357983236187/1245928564214206485/0cab2f379d62e152388632729318bbdb.gif?ex=67219b65&is=672049e5&hm=8d50380ff00160978acb3c85c8191dff463a8f146390f633944289d12d17e391&"    >
+ <br>  <img
+    src="https://raw.githubusercontent.com/andreanjunior/andreanjunior/main/assets/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"
+    alt="Efeito de digitação"
+    width="50%"
+  />
 </div>
 
 
