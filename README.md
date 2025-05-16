@@ -15,16 +15,32 @@
           
 </div>
 
-<div style="display: inline_block"><br>
+<table width="100%">
+  <tr>
+    <!-- Coluna da esquerda -->
+    <td align="left" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=andreanjunior&show_icons=true&hide=contribs,prs&theme=shadow_blue"
+        alt="GitHub Stats"
+        width="100%"
+      /><br/>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=shadow_blue"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+    <!-- Coluna da direita -->
+    <td align="right" width="50%">
+      <img
+        src="https://raw.githubusercontent.com/andreanjunior/andreanjunior/main/assets/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"
+        alt="Efeito de digitação"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
- <img  src="https://github-readme-stats.vercel.app/api?username=andreanjunior&show_icons=true&hide=contribs,prs&theme=shadow_blue" style="width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=shadow_blue" alt="Top Langs" style="width: 50%;" />
- <br>  <img
-    src="https://raw.githubusercontent.com/andreanjunior/andreanjunior/main/assets/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"
-    alt="Efeito de digitação"
-    width="50%"
-  />
-</div>
 
 
   ##
