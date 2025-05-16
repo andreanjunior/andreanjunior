@@ -1,16 +1,28 @@
+<!-- BARRA DE ÍCONES NO TOPO -->
 <p align="center">
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/docs/)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/docs/getting-started.html)
-[![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)](https://nextjs.org/docs/)
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org/en/docs/)
-[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net/docs.php)
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)](https://docs.mongodb.com/)
-[![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)](https://www.sqlite.org/docs.html)
-[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)](https://docs.docker.com/)
-[![Jest](https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg)](https://jestjs.io/docs/)
+  <!-- Web fundamentals -->
+  <img alt="HTML5"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3"       height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+
+  <!-- JS & TS -->
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+  <!-- Front-end -->
+  <img alt="React"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Next.js"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+
+  <!-- Back-end -->
+  <img alt="Node.js"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img alt="PHP"        height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+
+  <!-- Bancos de dados -->
+  <img alt="MongoDB"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img alt="SQLite"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
+
+  <!-- DevOps & Testes -->
+  <img alt="Docker"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="Jest"       height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
 </p>
 <table width="100%">
   <tr>
