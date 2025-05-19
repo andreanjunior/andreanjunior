@@ -10,7 +10,9 @@
 
   <!-- Front-end -->
   <img alt="React"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="Next.js"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+ <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
+
+
 
   <!-- Back-end -->
   <img alt="Node.js"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
@@ -74,6 +76,8 @@
   </a>
 </p>
 
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -84,8 +88,6 @@
          src="https://raw.githubusercontent.com/andreanjunior/andreanjunior/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-
   </div>
           
           
