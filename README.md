@@ -53,29 +53,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://discord.gg/junior_andrean_89807" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
-      height="30"
-    />
-  </a> 
-  <a href="mailto:andreanjunior.git@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-      height="30"
-    />
-  </a> 
-  <a href="https://www.linkedin.com/in/andrean-jr1997" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      height="30"
-    />
-  </a>
-</p>
 
 <p align="center">
   <picture>
