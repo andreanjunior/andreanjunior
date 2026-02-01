@@ -30,7 +30,7 @@
 <table width="100%">
   <tr>
     <!-- Coluna da esquerda -->
-    <td align="left" width="50%">
+    <td width="50%">
       <img
         src="https://github-readme-stats.vercel.app/api?username=andreanjunior&show_icons=true&hide=contribs,prs&theme=shadow_blue"
         alt="GitHub Stats"
