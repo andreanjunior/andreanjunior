@@ -35,7 +35,7 @@
         src="https://github-readme-stats.vercel.app/api?username=andreanjunior&show_icons=true&hide=contribs,prs&theme=shadow_blue"
         alt="GitHub Stats"
         width="100%"
-      /> <br/>
+      /><br/>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreanjunior&layout=compact&theme=shadow_blue"
         alt="Top Languages"
